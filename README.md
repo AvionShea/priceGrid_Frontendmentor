@@ -32,8 +32,8 @@ Produced a simple pricing table that could be utilized.
 
 ### Links
 - [Challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc)
-- [Solution](https://your-solution-url.com)
-- [Live Site](https://your-live-site-url.com)
+- [Solution](https://github.com/AvionShea/priceGrid_Frontendmentor)
+- [Live Site](https://price-grid-frontendmentor.vercel.app/)
 
 ## My process
 
